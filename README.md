@@ -1,6 +1,6 @@
-# [*Mamad sudo](https://telegram.me/owner_teleseed) 
+# [_Mamad sudo_](https://telegram.me/owner_teleseed) 
 
-_install bot
+*install bot*
 
 ___________________________________________________
 ```sh
@@ -17,5 +17,5 @@ chmod +x novin.sh
 Enter a phone number
 ___________________________________________________
 ```
-_END BY
-*MAMAD SUDO
+_END BY_
+*MAMAD SUDO*

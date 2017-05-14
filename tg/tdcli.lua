@@ -25,7 +25,7 @@ local M = {}
 -- @chat_id = user, group, channel, and broadcast
 -- @group_id = normal group
 -- @channel_id = channel and broadcast
-local function getChatId(chat_id)
+local function getChatId(chat_id) 
   local chat = {}
   local chat_id = tostring(chat_id)
 

@@ -1,8 +1,21 @@
-برای یادگیری و آموزش ساخت ربات ضد اسپم تلگرام  به سایت پرمگ مراجعه کنید 
-http://permag.ir
+# [*Mamad sudo](https://telegram.me/owner_teleseed) 
 
-کانال ما
-@permag_ir
+_install bot
 
-کانال ربات های ما 
-@permag_bots
+___________________________________________________
+```sh
+git clone https://github.com/mamad-sudo/novin
+
+cd novin
+
+chmod +x novin.sh
+
+./novin.sh install
+
+./novin.sh
+
+Enter a phone number
+___________________________________________________
+```
+_END BY
+*MAMAD SUDO
